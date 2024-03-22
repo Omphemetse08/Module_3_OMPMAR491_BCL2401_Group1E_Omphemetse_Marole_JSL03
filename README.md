@@ -2,6 +2,8 @@
 
 # presentation of the code in zoom.
 
+https://www.loom.com/share/5e9538da375f4d7b9bf89160dadd0ae9?sid=753d14fc-af9c-44cd-b19f-9cef4b6470a3
+
 # I have analysed the example_1 and example_2 which one is imperative and which one is declarative.
 
 # challenges
